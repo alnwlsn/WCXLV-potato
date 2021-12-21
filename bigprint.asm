@@ -1,4 +1,4 @@
-org 0x5b00
+org 0x6000
 start1:
     call beep2
 	ld bc,0x3d02 
